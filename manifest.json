@@ -1,0 +1,35 @@
+{
+    "manifest_version": 1,
+    "version": "1.0.0",
+    "name": "PassGen",
+    "short_name": "PassGen",
+    "description": "PassGen is a password generator that will help you generate unique, secure passwords for all of the websites you visit based on a single Master Password that you remember.",
+    "default_locale": "en",
+    "icons": [
+        {
+            "src": "https://cf.saltthepass.com/images/salt-icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cf.saltthepass.com/images/salt-icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cf.saltthepass.com/images/salt-icon-384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cf.saltthepass.com/images/salt-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#6ABFEB",
+    "orientation": "portrait"
+}
