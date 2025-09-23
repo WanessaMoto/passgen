@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 12 Sep 2025 22:44:46 +0000</lastBuildDate>
+            <lastBuildDate>Mon, 22 Sep 2025 01:36:29 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 368 &#8211; É possível ter nostalgia da nostalgia?</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-368-e-possivel-ter-nostalgia-da-nostalgia/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/09/368.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Mon, 22 Sep 2025 01:36:29 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17597</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-368-e-possivel-ter-nostalgia-da-nostalgia/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2025/09/368.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2025/09/368-nostalgia.mp3" length="22869166" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 367 &#8211; O Fenômeno Silksong e dando uma nova chance para Hollow Knight</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-367-o-fenomeno-silksong-e-dando-uma-nova-chance-para-hollow-knight/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/09/367.jpg /> ]]></description>
