@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sat, 13 Dec 2025 13:41:05 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 19 Dec 2025 20:56:21 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 381 &#8211; Filmes de Clair Obscur e Red Dead Redemption / E ELE NUNCA VOLTARÁ!</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-381-filmes-de-clair-obscur-e-red-dead-redemption-e-ele-nunca-voltara/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/12/381.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 19 Dec 2025 20:56:21 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17820</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-381-filmes-de-clair-obscur-e-red-dead-redemption-e-ele-nunca-voltara/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2025/12/381.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2025/12/381-filmes.mp3" length="19007142" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 380 &#8211; Legendas atrapalhando filmes, novos nomes da música e taxas de sites de shows</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-380-legendas-atrapalhando-filmes-novos-nomes-da-musica-e-taxas-de-sites-de-shows/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/12/380.jpg /> ]]></description>
