@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 19 Dec 2025 20:56:21 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 26 Dec 2025 22:58:34 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 382 &#8211; Como conhecemos os convidados mais frequentes do 99Vidas?</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-382-como-conhecemos-os-convidados-mais-frequentes-do-99vidas/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/12/382-1.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 26 Dec 2025 22:58:34 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17857</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-382-como-conhecemos-os-convidados-mais-frequentes-do-99vidas/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2025/12/382-1.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2025/12/382-perguntas.mp3" length="27438633" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 381 &#8211; Filmes de Clair Obscur e Red Dead Redemption / E ELE NUNCA VOLTARÁ!</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-381-filmes-de-clair-obscur-e-red-dead-redemption-e-ele-nunca-voltara/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/12/381.jpg /> ]]></description>
