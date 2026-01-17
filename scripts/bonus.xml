@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sat, 10 Jan 2026 00:39:08 +0000</lastBuildDate>
+            <lastBuildDate>Sat, 17 Jan 2026 00:30:22 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 384 &#8211; O que é ser um influencer?</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-384-o-que-e-ser-um-influencer/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/01/384.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sat, 17 Jan 2026 00:30:22 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17882</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-384-o-que-e-ser-um-influencer/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/01/384.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/01/384-influ.mp3" length="40541653" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 383 &#8211; Jogos que recuperam a empolgação gamer e comidinhas de cinema!</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-383-jogos-que-recuperam-a-empolgacao-gamer-e-comidinhas-de-cinema/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/01/383.jpg /> ]]></description>
