@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sat, 17 Jan 2026 00:30:22 +0000</lastBuildDate>
+            <lastBuildDate>Sun, 25 Jan 2026 01:07:44 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 385 &#8211; Memes de Videogames e A Melhor Feijoada do Brasil</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-385-memes-de-videogames-e-a-melhor-feijoada-do-brasil/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/01/385-1.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sun, 25 Jan 2026 01:07:44 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17900</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-385-memes-de-videogames-e-a-melhor-feijoada-do-brasil/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/01/385-1.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/01/385-memes.mp3" length="42219760" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 384 &#8211; O que é ser um influencer?</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-384-o-que-e-ser-um-influencer/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/01/384.jpg /> ]]></description>
