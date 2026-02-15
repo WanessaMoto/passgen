@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 06 Feb 2026 23:06:33 +0000</lastBuildDate>
+            <lastBuildDate>Sun, 15 Feb 2026 05:06:49 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 388 &#8211; Qual podcast o time 99Vidas desceria a porrada?</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-388-qual-podcast-o-time-99vidas-desceria-a-porrada/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/02/388-bonus.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sun, 15 Feb 2026 05:06:49 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17950</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-388-qual-podcast-o-time-99vidas-desceria-a-porrada/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/02/388-bonus.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/02/388-porrada.mp3" length="36523394" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 387 &#8211; Trailers dos filmes Street Fighter, Super Mario Galaxy e&#8230; He-Man!</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-387-trailers-dos-filmes-street-fighter-super-mario-galaxy-e-he-man/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/02/387.jpg /> ]]></description>
