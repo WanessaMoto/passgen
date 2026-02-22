@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sun, 15 Feb 2026 05:06:49 +0000</lastBuildDate>
+            <lastBuildDate>Sun, 22 Feb 2026 05:49:36 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 389 &#8211; As piores comparações do &#8220;Raiz x Nutella&#8221;</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-389-as-piores-comparacoes-do-raiz-x-nutella/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/02/389.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sun, 22 Feb 2026 05:49:36 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17961</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-389-as-piores-comparacoes-do-raiz-x-nutella/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/02/389.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/02/389-raiz.mp3" length="23741366" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 388 &#8211; Qual podcast o time 99Vidas desceria a porrada?</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-388-qual-podcast-o-time-99vidas-desceria-a-porrada/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/02/388-bonus.jpg /> ]]></description>
@@ -4401,7 +4418,7 @@
                                         <item>
                         <title>Bônus 132 &#8211; Quem é melhor: Live/Gamepass ou PSN Plus/Now?</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-132-quem-e-melhor-live-gamepass-ou-psn-plus-now/</link>
-                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/05/133.jpg /> ]]></description>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2025/05/132-gamepass-mp3-image.jpg /> ]]></description>
                         <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
                         <pubDate>Fri, 12 Feb 2021 19:33:11 +0000</pubDate>
                         <guid isPermaLink="false">https://99vidas.com.br/?p=17224</guid>
@@ -4411,7 +4428,7 @@
                         <itunes:author>99Vidas Podcast</itunes:author>
                         <itunes:episodeType>full</itunes:episodeType>
                         <itunes:explicit>false</itunes:explicit>
-                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2025/05/133.jpg" />
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2025/05/132-gamepass-mp3-image.jpg" />
                                                     <enclosure url="https://99vidas.com.br/wp-content/uploads/2025/05/132-gamepass.mp3" length="20306525" type="audio/mpeg" />
                             <itunes:duration>0</itunes:duration>
                                             </item>
