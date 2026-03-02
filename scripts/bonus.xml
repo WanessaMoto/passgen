@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sun, 22 Feb 2026 05:49:36 +0000</lastBuildDate>
+            <lastBuildDate>Mon, 02 Mar 2026 18:28:55 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 390 &#8211; Pratos minúsculos de chef, a moda dos Donuts BR e um monte de assuntos!</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-390-pratos-minusculos-de-chef-a-moda-dos-donuts-br-e-um-monte-de-assuntos/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/390.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Mon, 02 Mar 2026 18:28:55 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17975</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-390-pratos-minusculos-de-chef-a-moda-dos-donuts-br-e-um-monte-de-assuntos/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/390.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/03/390-CHEF.mp3" length="54262835" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 389 &#8211; As piores comparações do &#8220;Raiz x Nutella&#8221;</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-389-as-piores-comparacoes-do-raiz-x-nutella/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/02/389.jpg /> ]]></description>
