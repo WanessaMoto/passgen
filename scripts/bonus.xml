@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Mon, 02 Mar 2026 18:28:55 +0000</lastBuildDate>
+            <lastBuildDate>Sat, 07 Mar 2026 00:08:25 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 391 &#8211; Primeiras Impressões | Resident Evil Requiem</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-391-primeiras-impressoes-resident-evil-requiem/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/391.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sat, 07 Mar 2026 00:08:25 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=17997</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-391-primeiras-impressoes-resident-evil-requiem/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/391.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/03/391-re9.mp3" length="31990209" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 390 &#8211; Pratos minúsculos de chef, a moda dos Donuts BR e um monte de assuntos!</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-390-pratos-minusculos-de-chef-a-moda-dos-donuts-br-e-um-monte-de-assuntos/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/390.jpg /> ]]></description>
