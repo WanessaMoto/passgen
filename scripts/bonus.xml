@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Sat, 07 Mar 2026 00:08:25 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 13 Mar 2026 15:00:10 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,9 +38,26 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 392 &#8211; 30 anos de Pokémon! &#8220;Ventos&#8221; e &#8220;Ondas&#8221; em português!!!</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-392-30-anos-de-pokemon-ventos-e-ondas-em-portugues/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/392-pokemon-cast.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 13 Mar 2026 15:00:10 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=18000</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-392-30-anos-de-pokemon-ventos-e-ondas-em-portugues/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/392-pokemon-cast.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/03/392-pokemon.mp3" length="29301477" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 391 &#8211; Primeiras Impressões | Resident Evil Requiem</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-391-primeiras-impressoes-resident-evil-requiem/</link>
-                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/391.jpg /> ]]></description>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/391-re9-bonus.jpg /> ]]></description>
                         <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
                         <pubDate>Sat, 07 Mar 2026 00:08:25 +0000</pubDate>
                         <guid isPermaLink="false">https://99vidas.com.br/?p=17997</guid>
@@ -50,7 +67,7 @@
                         <itunes:author>99Vidas Podcast</itunes:author>
                         <itunes:episodeType>full</itunes:episodeType>
                         <itunes:explicit>false</itunes:explicit>
-                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/391.jpg" />
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/391-re9-bonus.jpg" />
                                                     <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/03/391-re9.mp3" length="31990209" type="audio/mpeg" />
                             <itunes:duration>0</itunes:duration>
                                             </item>
