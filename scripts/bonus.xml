@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 13 Mar 2026 15:00:10 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 20 Mar 2026 15:21:23 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 393 &#8211; O legado do 99Vidas e Jogos de empresas</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-393-o-legado-do-99vidas-e-jogos-de-empresas/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/Capa-Quadrada-Bonus-393.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 20 Mar 2026 15:21:23 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=18063</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-393-o-legado-do-99vidas-e-jogos-de-empresas/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/03/Capa-Quadrada-Bonus-393.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/03/393-legado.mp3" length="25449983" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 392 &#8211; 30 anos de Pokémon! &#8220;Ventos&#8221; e &#8220;Ondas&#8221; em português!!!</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-392-30-anos-de-pokemon-ventos-e-ondas-em-portugues/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/392-pokemon-cast.jpg /> ]]></description>
