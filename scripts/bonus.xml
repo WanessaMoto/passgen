@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 27 Mar 2026 13:05:06 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 03 Apr 2026 12:54:56 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 395 &#8211; Novo R36s+, aproveitar a vida com os pais e jogos chineses</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-395-novo-r36s-aproveitar-a-vida-com-os-pais-e-jogos-chineses/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-395.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 03 Apr 2026 12:54:56 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=18112</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-395-novo-r36s-aproveitar-a-vida-com-os-pais-e-jogos-chineses/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-395.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/04/99Vidas-B395-R36SPLUS-VIDACOMOSPAIS-JOGOSCHINESES-d8cRXw5.mp3" length="34348752" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 394 &#8211; Discutindo a Lei Felca e as novidades da GDC 2026</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-394-lei-felca-e-gdc-2026/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/03/Capa-Quadrada-Bonus-394-2.jpg /> ]]></description>
