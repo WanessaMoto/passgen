@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 10 Apr 2026 12:56:14 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 17 Apr 2026 13:02:04 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 397 – Super Mario Galaxy: O Filme</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-397-super-mario-galaxy-o-filme/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-397.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 17 Apr 2026 13:02:04 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=18153</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-397-super-mario-galaxy-o-filme/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-397.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/04/99Vidas-B397-FILME-MARIO-2-Q1XPT75.mp3" length="47814143" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 396 &#8211; Como ter saudade daquilo que não vivemos? É possível sentir algo assim?</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-396-como-ter-saudade-daquilo-que-nao-vivemos-e-possivel-sentir-assim/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-396.jpg /> ]]></description>
