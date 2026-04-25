@@ -13,7 +13,7 @@
             <title>99Vidas Bônus</title>
             <link>https://99vidas.com.br</link>
             <description>Feed exclusivo para membros do 99Vidas</description>
-            <lastBuildDate>Fri, 17 Apr 2026 13:02:04 +0000</lastBuildDate>
+            <lastBuildDate>Fri, 24 Apr 2026 12:19:45 +0000</lastBuildDate>
             <language>pt-BR</language>
             <sy:updatePeriod>hourly</sy:updatePeriod>
             <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,23 @@
                 <height>32</height>
             </image>
                                 <item>
+                        <title>Bônus 398 – Jogando com os Filhos, Fim das caixas misteriosas e Novas namoradas</title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-398-jogando-com-os-filhos-fim-das-caixas-misteriosas-e-novas-namoradas/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-398.jpg /> ]]></description>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 24 Apr 2026 12:19:45 +0000</pubDate>
+                        <guid isPermaLink="false">https://99vidas.com.br/?p=18169</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-398-jogando-com-os-filhos-fim-das-caixas-misteriosas-e-novas-namoradas/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-398.jpg" />
+                                                    <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/04/99vidas-b398-jogando-filhoas-namoradas-kiuygr.mp3" length="45375028" type="audio/mpeg" />
+                            <itunes:duration>0</itunes:duration>
+                                            </item>
+                                        <item>
                         <title>Bônus 397 – Super Mario Galaxy: O Filme</title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-397-super-mario-galaxy-o-filme/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/04/Capa-Quadrada-Bonus-397.jpg /> ]]></description>
