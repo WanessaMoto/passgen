@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 01 May 2026 13:49:30 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 01:37:20 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,23 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 400 &#8211; Bastidores do 99Vidas, ideias pras lives e futuro do projeto]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-400-bastidores-do-99vidas-ideias-pras-lives-e-futuro-do-projeto/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-400.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Sat, 09 May 2026 01:37:20 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-400-bastidores-do-99vidas-ideias-pras-lives-e-futuro-do-projeto/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-400-bastidores-do-99vidas-ideias-pras-lives-e-futuro-do-projeto/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-400.jpg" />
+                                                                        <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/05/99vidas-b400-bastigores-live-futuro-ppexsk.mp3" length="57522081" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 399 &#8211; Days Gone 2, Virando Professor e Apenas um Jogo de Cada Console]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-399-days-gone-2-virando-professor-e-apenas-um-jogo-de-cada-console/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-399.jpg" alt="" /> ]]></description>
