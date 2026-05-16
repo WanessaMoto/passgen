@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Sat, 09 May 2026 01:37:20 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 20:11:28 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,23 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 401 &#8211; A melhor internet do Brasil, meme do “Será” e o sucesso do “Caneta Azul]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-401-a-melhor-internet-do-brasil-meme-do-sera-e-o-sucesso-do-caneta-azul/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-401-1.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 15 May 2026 20:11:28 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-401-a-melhor-internet-do-brasil-meme-do-sera-e-o-sucesso-do-caneta-azul/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-401-a-melhor-internet-do-brasil-meme-do-sera-e-o-sucesso-do-caneta-azul/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-401-1.jpg" />
+                                                                        <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/05/99vidas-b341-caneta-sera-immgte.mp3" length="26316831" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 400 &#8211; Bastidores do 99Vidas, ideias pras lives e futuro do projeto]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-400-bastidores-do-99vidas-ideias-pras-lives-e-futuro-do-projeto/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-400.jpg" alt="" /> ]]></description>
