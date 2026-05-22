@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 15 May 2026 20:11:28 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 13:51:19 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,23 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 402 &#8211; Jogos Muito Difíceis, Fórmula 1 no Rádio e Aposentadoria Anos 90]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-402-jogos-muito-dificeis-formula-1-no-radio-e-aposentadoria-anos-90/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-402.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 22 May 2026 13:40:08 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-402-jogos-muito-dificeis-formula-1-no-radio-e-aposentadoria-anos-90/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-402-jogos-muito-dificeis-formula-1-no-radio-e-aposentadoria-anos-90/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-402.jpg" />
+                                                                        <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/05/99vidas-b402-radio-f1-kubghff.mp3" length="28381549" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 401 &#8211; A melhor internet do Brasil, meme do “Será” e o sucesso do “Caneta Azul]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-401-a-melhor-internet-do-brasil-meme-do-sera-e-o-sucesso-do-caneta-azul/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-401-1.jpg" alt="" /> ]]></description>
