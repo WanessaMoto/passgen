@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 29 May 2026 12:05:17 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 14:36:26 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,23 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 404 &#8211; Jogos Relaxantes, Carteira de Trabalho e Caçadores de Troféu]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-404-jogos-relaxantes-carteira-de-trabalho-e-cacadores-de-trofeu/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-404.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 05 Jun 2026 14:36:26 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-404-jogos-relaxantes-carteira-de-trabalho-e-cacadores-de-trofeu/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-404-jogos-relaxantes-carteira-de-trabalho-e-cacadores-de-trofeu/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-404.jpg" />
+                                                                        <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/05/99vidas-b404-trabaio-relax-jjuyzs.mp3" length="26500733" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 403 &#8211; Donkey Kong Forró, Capas Clássicas de Jogos e Falando Inglês]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-403-donkey-kong-forro-capas-classicas-de-jogos-e-falando-ingles/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/05/Capa-Quadrada-Bonus-403.jpg" alt="" /> ]]></description>
