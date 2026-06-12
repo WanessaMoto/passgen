@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 05 Jun 2026 14:36:26 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 14:15:42 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,23 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 405 &#8211; Remakes de IA, Luciano Huck Idiota, Frieren e Fãs Amigos]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-405-remakes-de-ia-luciano-huck-idiota-frieren-e-fas-amigos/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-405.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 12 Jun 2026 14:15:42 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-405-remakes-de-ia-luciano-huck-idiota-frieren-e-fas-amigos/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-405-remakes-de-ia-luciano-huck-idiota-frieren-e-fas-amigos/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-405.jpg" />
+                                                                        <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/06/99vidas-b405-ajudaluciano-amigos-kiuzzsp.mp3" length="42992566" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 404 &#8211; Jogos Relaxantes, Carteira de Trabalho e Caçadores de Troféu]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-404-jogos-relaxantes-carteira-de-trabalho-e-cacadores-de-trofeu/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-404.jpg" alt="" /> ]]></description>
