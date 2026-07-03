@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 26 Jun 2026 12:35:43 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 12:07:07 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 408 &#8211; Bar do Felipe, 007, First Light e a &#8220;não aceitação&#8221; do xCloud]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-408-bar-do-felipe-007-first-light-e-a-nao-aceitacao-do-xcloud/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-408-1.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 03 Jul 2026 12:03:56 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-408-bar-do-felipe-007-first-light-e-a-nao-aceitacao-do-xcloud/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-408-bar-do-felipe-007-first-light-e-a-nao-aceitacao-do-xcloud/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-408-1.jpg" />
+                                                                        <itunes:duration>0:26:03</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/07/99vidas-b408-bar-first-xcloud-jnhgtrz.mp3" length="25010290" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 407 &#8211; Terror na Praia, Fotinhas do Dia dos Namorados e PS1 x PS2]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-407-terror-na-praia-fotinhas-do-dia-dos-namorados-e-ps1-x-ps2/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/06/Capa-Quadrada-Bonus-407.jpg" alt="" /> ]]></description>
