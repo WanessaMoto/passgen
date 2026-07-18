@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 10 Jul 2026 12:05:21 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 13:01:20 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 410 &#8211; Adeus do Jaspion, comidas estrangeiras e saudades de antigamente.]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-410-adeus-do-jaspion-comidas-estrangeiras-e-saudades-de-antigamente/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-410.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 17 Jul 2026 13:01:20 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-410-adeus-do-jaspion-comidas-estrangeiras-e-saudades-de-antigamente/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-410-adeus-do-jaspion-comidas-estrangeiras-e-saudades-de-antigamente/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-410.jpg" />
+                                                                        <itunes:duration>0:24:20</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/07/99vidas-b410-japion-comida-sdds-pizamhy.mp3" length="23366842" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 409 &#8211; GTA 6 na pré-venda, Aposta paga e Fim da mídia física]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-409-gta-6-na-pre-venda-aposta-paga-e-fim-da-midia-fisica/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-409.jpg" alt="" /> ]]></description>
