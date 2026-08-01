@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 24 Jul 2026 14:15:15 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 15:09:55 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 412 &#8211; Pica-Pau Maluco, Quarta-feira dos Infernos e Crimson Desert]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-412-pica-pau-maluco-quarta-feira-dos-infernos-e-crimson-desert/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-412.jpg" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 31 Jul 2026 15:09:55 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-412-pica-pau-maluco-quarta-feira-dos-infernos-e-crimson-desert/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-412-pica-pau-maluco-quarta-feira-dos-infernos-e-crimson-desert/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-412.jpg" />
+                                                                        <itunes:duration>0:30:40</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/07/99vidas-b421-pica-quarta-vdeppk.mp3" length="29435642" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 411 &#8211; Resumão da Copa 2026, CazéTV, VARgentina, Espanha campeã]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-411-resumao-da-copa-2026-cazetv-vargentina-espanha-campea/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/07/Capa-Quadrada-Bonus-411.jpg" alt="" /> ]]></description>
