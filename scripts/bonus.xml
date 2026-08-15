@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 07 Aug 2026 22:11:01 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 12:00:58 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 414 &#8211; Atendimentos Bizarros, Mc do Gagliasso e Matérias ruins da facul]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/atendimentos-bizarros-mc-do-gagliasso-e-materias-ruins-da-facul/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-414-1.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 14 Aug 2026 11:35:46 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/atendimentos-bizarros-mc-do-gagliasso-e-materias-ruins-da-facul/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/atendimentos-bizarros-mc-do-gagliasso-e-materias-ruins-da-facul/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-414-1.png" />
+                                                                        <itunes:duration>0:29:04</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/08/99vidas-b414-reels-gaucho-jssuyz.mp3" length="27900060" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 413 &#8211; Quem comprou o WinRAR, nossos pets e invertendo o eixo Y da câmera]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-413-quem-comprou-o-winrar-nossos-pets-e-invertendo-o-eixo-y-da-camera/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-413.jpg" alt="" /> ]]></description>
