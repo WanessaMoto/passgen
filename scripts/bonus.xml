@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 14 Aug 2026 12:00:58 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 10:45:53 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 415 &#8211; Reels do 99, Famosos das Nossas Cidades e Parabéns Gaúcho]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-415-reels-do-99-famosos-das-nossas-cidades-e-parabens-gaucho/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-415.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 21 Aug 2026 10:45:53 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-415-reels-do-99-famosos-das-nossas-cidades-e-parabens-gaucho/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-415-reels-do-99-famosos-das-nossas-cidades-e-parabens-gaucho/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-415.png" />
+                                                                        <itunes:duration>0:22:12</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/08/99vidas-b415-reels-gaucho-kuzzjts.mp3" length="21308426" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 414 &#8211; Atendimentos Bizarros, Mc do Gagliasso e Matérias ruins da facul]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/atendimentos-bizarros-mc-do-gagliasso-e-materias-ruins-da-facul/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-414-1.png" alt="" /> ]]></description>
