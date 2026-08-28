@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 21 Aug 2026 10:45:53 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 11:19:27 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 416  &#8211; Película de Celular, Estacionamento Bizarro e Licensing com Latam]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-416-pelicula-de-celular-estacionamento-bizarro-e-licensing-com-latam/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-417.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 28 Aug 2026 11:19:27 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-416-pelicula-de-celular-estacionamento-bizarro-e-licensing-com-latam/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-416-pelicula-de-celular-estacionamento-bizarro-e-licensing-com-latam/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-417.png" />
+                                                                        <itunes:duration>0:27:39</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/08/99vidas-b416-estaci-celuleca-latam-nhgttfp.mp3" length="26551724" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 415 &#8211; Reels do 99, Famosos das Nossas Cidades e Parabéns Gaúcho]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-415-reels-do-99-famosos-das-nossas-cidades-e-parabens-gaucho/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/08/Capa-Quadrada-Bonus-415.png" alt="" /> ]]></description>
