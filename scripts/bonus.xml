@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 04 Sep 2026 11:35:29 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 02:52:32 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 418 &#8211; Switch 2, Donkey Kong Bananza e ReStory: Chill Electronics Repairs]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-418-switch-2-donkey-kong-bananza-e-restory-chill-electronics-repairs/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-418-1.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Mon, 14 Sep 2026 02:43:06 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-418-switch-2-donkey-kong-bananza-e-restory-chill-electronics-repairs/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-418-switch-2-donkey-kong-bananza-e-restory-chill-electronics-repairs/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-418-1.png" />
+                                                                        <itunes:duration>0:45:33</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/09/99vidas-bonus-418-dk-saros-restory.mp3" length="58683325" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 417  &#8211; CPM 22, Tops do Daft Punk e Duras Críticas ao Hollow Knight]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-417-cpm-22-tops-do-daft-punk-e-duras-criticas-ao-hollow-knight/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-418.png" alt="" /> ]]></description>
