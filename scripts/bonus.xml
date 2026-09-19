@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Mon, 14 Sep 2026 02:52:32 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 16:20:54 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 419 &#8211; O ato de zerar jogos, abandonando games e resgatando a alma gamer]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-419-o-ato-de-zerar-jogos-abandonando-games-e-resgatando-a-alma-gamer/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-420.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 18 Sep 2026 16:05:52 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-419-o-ato-de-zerar-jogos-abandonando-games-e-resgatando-a-alma-gamer/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-419-o-ato-de-zerar-jogos-abandonando-games-e-resgatando-a-alma-gamer/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-420.png" />
+                                                                        <itunes:duration>0:36:50</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/09/99vidas-bonus-419-voltar-a-jogar-kjnhrz.mp3" length="53037816" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 418 &#8211; Switch 2, Donkey Kong Bananza e ReStory: Chill Electronics Repairs]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-418-switch-2-donkey-kong-bananza-e-restory-chill-electronics-repairs/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-418-1.png" alt="" /> ]]></description>
