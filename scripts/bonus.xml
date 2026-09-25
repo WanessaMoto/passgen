@@ -13,7 +13,7 @@
         <title>99Vidas Bônus</title>
         <link>https://99vidas.com.br/</link>
         <description>Feed exclusivo para membros do 99Vidas</description>
-        <lastBuildDate>Fri, 18 Sep 2026 16:20:54 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 12:46:06 +0000</lastBuildDate>
         <language>pt-BR</language>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,6 +41,24 @@
             <height>144</height>
         </image>
                             <item>
+                        <title><![CDATA[Bônus 420 &#8211; Foco no Trabalho, Lembrando Experiências e Definindo uma Geração]]></title>
+                        <link>https://99vidas.com.br/podcast-de-games/bonus-420-foco-no-trabalho-lembrando-experiencias-e-definindo-uma-geracao/</link>
+                        <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-420-1.png" alt="" /> ]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                        <dc:creator><![CDATA[Jurandir Filho]]></dc:creator>
+                        <pubDate>Fri, 25 Sep 2026 12:46:06 +0000</pubDate>
+                        <guid isPermaLink="true">https://99vidas.com.br/podcast-de-games/bonus-420-foco-no-trabalho-lembrando-experiencias-e-definindo-uma-geracao/</guid>
+                        <comments>https://99vidas.com.br/podcast-de-games/bonus-420-foco-no-trabalho-lembrando-experiencias-e-definindo-uma-geracao/#comments</comments>
+                        <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+                        <itunes:summary><![CDATA[]]></itunes:summary>
+                        <itunes:author>99Vidas Podcast</itunes:author>
+                        <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:explicit>false</itunes:explicit>
+                        <itunes:image href="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-420-1.png" />
+                                                                        <itunes:duration>0:21:17</itunes:duration>
+                                                <enclosure url="https://99vidas.com.br/wp-content/uploads/2026/09/99vidas-bonus-420-focus-senhor-vfrepk.mp3" length="35286497" type="audio/mpeg" />
+                    </item>
+                        <item>
                         <title><![CDATA[Bônus 419 &#8211; O ato de zerar jogos, abandonando games e resgatando a alma gamer]]></title>
                         <link>https://99vidas.com.br/podcast-de-games/bonus-419-o-ato-de-zerar-jogos-abandonando-games-e-resgatando-a-alma-gamer/</link>
                         <description><![CDATA[<img src="https://99vidas.com.br/wp-content/uploads/2026/09/Capa-Quadrada-Bonus-420.png" alt="" /> ]]></description>
